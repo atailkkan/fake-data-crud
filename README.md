@@ -10,11 +10,15 @@
 ### 2. Delete User and Post
 
 - For delete operation, visit user or post list page, and click red delete button. If you see green success toast, delete operation is successful.
-- User List Page -> __`/users`__
-- Post List Page -> __`/posts`__
+
+#### For Local
+- User List Page -> __`http://localhost:5173/users`__
+- Post List Page -> __`http://localhost:5173/posts`__
 
 ### 3. Update User and Post
 
 - For update operation, visit user or post detail page, click title and body for post or if you are in user detail page click username, name or website, then you can update that areas.
-- User Detail Page -> __`/users/:id`__
-- Post Detail Page -> __`/posts/:id`__
+
+#### For Local
+- User Detail Page -> __`http://localhost:5173/users/:id`__
+- Post Detail Page -> __`http://localhost:5173/posts/:id`__
