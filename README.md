@@ -10,7 +10,11 @@
 ### 2. Delete User and Post
 
 - For delete operation, visit user or post list page, and click red delete button. If you see green success toast, delete operation is successful.
+- User List Page -> __`/users`__
+- Post List Page -> __`/posts`__
 
 ### 3. Update User and Post
 
 - For update operation, visit user or post detail page, click title and body for post or if you are in user detail page click username, name or website, then you can update that areas.
+- User Detail Page -> __`/users/:id`__
+- Post Detail Page -> __`/posts/:id`__
