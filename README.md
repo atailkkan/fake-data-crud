@@ -1,5 +1,7 @@
 # CRUD operations with {JSON} placeholder datas.
 
+Live Demo => [https://fakedata.atailkkan.com]https://fakedata.atailkkan.com
+
 ### 1. General Description
 
 - First, download this project to your computer.
