@@ -1,6 +1,6 @@
 # CRUD operations with {JSON} placeholder datas.
 
-Live Demo is [here.](https://fakedata.atailkkan.com)
+Live Demo is [here.](https://fakedata.atailkkan.com target="_blank")
 
 ### 1. General Description
 
